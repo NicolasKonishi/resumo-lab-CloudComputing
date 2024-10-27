@@ -20,7 +20,17 @@ Este repositório contém anotações e resumos sobre conceitos fundamentais de 
 
 ### 4. **Explorando os Recursos da Plataforma Azure**
    - **Azure Portal**: Plataforma principal para gerenciamento de recursos na nuvem.
-     
+
+### 5. **Benefícios da Cloud Computing**
+   - **Alta Disponibilidade**: Os serviços em nuvem são projetados para serem acessíveis a qualquer momento, minimizando o tempo de inatividade. Os provedores de nuvem, como Azure, garantem que os recursos estejam disponíveis 24/7 através de uma infraestrutura robusta.
+   - **Escalabilidade**: A capacidade de aumentar ou diminuir recursos rapidamente conforme a demanda. Isso permite que as empresas ajustem suas operações de acordo com o crescimento ou sazonalidade, sem grandes investimentos iniciais.
+   - **Elasticidade**: Refere-se à capacidade de a infraestrutura se adaptar automaticamente às necessidades de carga de trabalho, aumentando ou diminuindo recursos de forma dinâmica, garantindo eficiência de custo.
+   - **Confiabilidade**: Provedores de nuvem oferecem redundância e recuperação de desastres, garantindo que os dados e serviços sejam mantidos seguros e acessíveis mesmo em situações adversas.
+   - **Previsibilidade**: Com modelos de pagamento previsíveis e estruturados, as empresas podem planejar melhor seus orçamentos e evitar despesas inesperadas.
+   - **Segurança**: Embora a segurança varie entre diferentes provedores, muitos oferecem medidas avançadas de segurança, como criptografia, firewalls e monitoramento contínuo, protegendo dados e aplicativos contra ameaças.
+   - **Governança**: A nuvem permite que as empresas implementem políticas de governança e conformidade de maneira mais fácil, garantindo que os dados sejam gerenciados de acordo com as regulamentações e padrões da indústria.
+   - **Gerenciabilidade**: Ferramentas e serviços de gerenciamento fornecidos pelos provedores de nuvem facilitam a administração de recursos, monitoramento de desempenho e automação de tarefas, permitindo que as equipes de TI se concentrem em iniciativas mais estratégicas.
+
 ## 🚀 Objetivo
 O objetivo desses estudos é familiarizar-se com os conceitos fundamentais de Cloud Computing e com as funcionalidades da plataforma Azure, promovendo uma visão geral sobre como estruturar e gerenciar ambientes em nuvem para diferentes cenários de negócios.
 
