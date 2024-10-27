@@ -30,6 +30,17 @@ Este repositório contém anotações e resumos sobre conceitos fundamentais de 
    - **Segurança**: Embora a segurança varie entre diferentes provedores, muitos oferecem medidas avançadas de segurança, como criptografia, firewalls e monitoramento contínuo, protegendo dados e aplicativos contra ameaças.
    - **Governança**: A nuvem permite que as empresas implementem políticas de governança e conformidade de maneira mais fácil, garantindo que os dados sejam gerenciados de acordo com as regulamentações e padrões da indústria.
    - **Gerenciabilidade**: Ferramentas e serviços de gerenciamento fornecidos pelos provedores de nuvem facilitam a administração de recursos, monitoramento de desempenho e automação de tarefas, permitindo que as equipes de TI se concentrem em iniciativas mais estratégicas.
+     
+   - ### 6. **Modelos de Serviço em Nuvem: SaaS, PaaS e IaaS**
+
+Os modelos de serviço em nuvem podem ser classificados em três categorias principais: Software as a Service (SaaS), Platform as a Service (PaaS) e Infrastructure as a Service (IaaS). Cada modelo oferece diferentes níveis de controle e flexibilidade.
+
+- **SaaS (Software como Serviço)**: Refere-se a aplicativos que são hospedados na nuvem e disponibilizados aos usuários pela Internet. Os usuários acessam o software através de um navegador, sem necessidade de instalação local. Exemplos incluem Microsoft 365, Google Workspace e Salesforce. O modelo SaaS é ideal para empresas que buscam soluções prontas e de fácil acesso, sem se preocupar com a infraestrutura subjacente.
+
+- **PaaS (Plataforma como Serviço)**: Fornece uma plataforma para desenvolvedores criarem, testarem e implementarem aplicativos sem se preocupar com a infraestrutura. O PaaS oferece ferramentas de desenvolvimento, gerenciamento de banco de dados e serviços de integração. Exemplos incluem Azure App Service, Google App Engine e Heroku. Esse modelo é vantajoso para empresas que desejam desenvolver aplicativos personalizados rapidamente, com suporte a múltiplas linguagens de programação e serviços integrados.
+
+- **IaaS (Infraestrutura como Serviço**: Oferece recursos de computação, armazenamento e rede na nuvem, permitindo que as empresas gerenciem sua própria infraestrutura virtualizada. Os usuários têm controle total sobre o sistema operacional, aplicativos e configurações de rede. Exemplos incluem Azure Virtual Machines, Amazon EC2 e Google Compute Engine. O modelo IaaS é ideal para empresas que precisam de flexibilidade máxima e controle sobre seus recursos de TI, permitindo escalar conforme necessário.
+
 
 ## 🚀 Objetivo
 O objetivo desses estudos é familiarizar-se com os conceitos fundamentais de Cloud Computing e com as funcionalidades da plataforma Azure, promovendo uma visão geral sobre como estruturar e gerenciar ambientes em nuvem para diferentes cenários de negócios.
